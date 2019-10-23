@@ -3,7 +3,7 @@
 - 云操作系统：CentOS 7.2 64位；
 - HTTP服务器：Apache Web 服务器；
 - 数据库：MySQL；
-- 建站工具：WordPress（基于PHP）。
+- 建站工具：WordPress（基于PHP）
 
 1.安装Apache Web服务器
 
