@@ -7,7 +7,7 @@
 
 1.安装Apache Web服务器
 
-![](./image/8.png
+![](./image/8.png)
 
 2.安装MySQL
 
@@ -15,11 +15,11 @@
 
 安装PHP模块
 
-![](./image/9.png
+![](./image/9.png)
 
 4.测试PHP
 
-![](./image/10.png
+![](./image/10.png)
 
 5.安装WordPress以及完成相关配置
 
@@ -31,4 +31,4 @@
 
 (4)通过Web界面进一步配置WordPress
 
-![](./image/11.png
+![](./image/11.png)
