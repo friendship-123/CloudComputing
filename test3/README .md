@@ -2,28 +2,28 @@
 
 验证docker是否安装成功并启动，得到如下输出
 
-![](../image/12.png)
+![](H:\CloudComputing\test3\12.png)
 
 还可以查看一下Docker的版本信息
 
-![](../image/13.png)
+![](H:\CloudComputing\test3\13.png)
 
 2、加载Docker的CentOS镜像
 
-![](../image/14.png)
+![](H:\CloudComputing\test3\14.png)
 
 提交新的镜像并推送至Docker Hub
 
-![](../image/15.png)
+![](H:\CloudComputing\test3\15.png)
 
-![](../image/16.png)
+![](H:\CloudComputing\test3\16 .png)
 
 3、拉取CentOS镜像后运行一个容器实例
 
-![](../image/17.png)
+![](H:\CloudComputing\test3\17.png)
 
 在容器实例中安装WordPress并制作成镜像，在8081端口映射公网IP：106.54.15.12
 
 访问时在公网IP地址后面加：8081  即可访问，一下为截图
 
-![](../image/18.png)
+![](H:\CloudComputing\test3\18.png)
