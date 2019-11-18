@@ -42,7 +42,9 @@
 
 ![](./images/22.png)
 
-​                                                                                构建wordpress
+​              ![](./images/25.png)                                                                  
+
+​                                                                               构建wordpress
 
 ![](./images/23.png)
 
