@@ -12,7 +12,7 @@
 
 输入：ip addr
 
-![](H:\CloudComputing\test4\images\17.png)
+![](H:\CloudComputing\test4\images\2.png)
 
 ![](H:\CloudComputing\test4\images\4.png)
 
